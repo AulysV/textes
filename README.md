@@ -1,2 +1,1 @@
-# textes
-Fiches des textes en français
+Fiches des 15 textes du bac de français
